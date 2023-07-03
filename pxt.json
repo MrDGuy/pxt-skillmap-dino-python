@@ -13,7 +13,8 @@
         "tutorials/dino3.md",
         "tutorials/dino4.md",
         "tutorials/dino5.md",
-        "tutorials/scroller.ts"
+        "tutorials/scroller.ts",
+        "educator-info/dino-map-info.md"
         
     ],
     "testFiles": [
