@@ -1,5 +1,5 @@
 {
-    "name": "pxt-skillmap-sample",
+    "name": "pxt-skillmap-dino-python",
     "version": "0.0.1",
     "description": "",
     "dependencies": {
@@ -12,8 +12,6 @@
         "tutorials/dino2.md",
         "tutorials/dino3.md",
         "tutorials/dino4.md",
-        "tutorials/dino5.md",
-        "tutorials/scroller.ts",
         "educator-info/dino-map-info.md"
         
     ],
