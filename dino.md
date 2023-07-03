@@ -21,7 +21,7 @@
 * name: Dino Hoard
 * type: tutorial
 * description: Create a swarm of baby dinosaurs to run down the city streets.
-* url: /tutorials/dino1
+* url: https://github.com/MrDGuy/pxt-skillmap-dino-python/tutorials/dino1
 * imageUrl: https://github.com/MrDGuy/pxt-skillmap-dino-python/blob/master/img/dino1.gif
 * tags: easy, collector, game
 * next: dino2
@@ -33,7 +33,7 @@
 * name: Save the Baby Dinos!
 * type: tutorial
 * description: Make a few simple changes to create a game where Momma Dino collects her babies to take them home.
-* url: /tutorials/dino2
+* url: https://github.com/MrDGuy/pxt-skillmap-dino-python/tutorials/dino2
 * imageUrl: https://github.com/MrDGuy/pxt-skillmap-dino-python/blob/master/img/dino2.gif
 * tags: easy, collector, game, projectiles
 * next: dino3
@@ -45,7 +45,7 @@
 * name: Traffic Dodger
 * type: tutorial
 * description: Save the baby dinos before the cars get in the way!
-* url: /tutorials/dino3
+* url: https://github.com/MrDGuy/pxt-skillmap-dino-python/tutorials/dino2/tutorials/dino3
 * imageUrl: https://github.com/MrDGuy/pxt-skillmap-dino-python/blob/master/img/dino3.gif
 * tags: easy, collector, game, collisions
 * next: dino4
@@ -56,7 +56,7 @@
 * name: Animate It!
 * type: tutorial
 * description: Animate your characters to give them life!
-* url: /tutorials/dino4
+* url: https://github.com/MrDGuy/pxt-skillmap-dino-python/tutorials/dino2/tutorials/dino4
 * imageUrl: https://github.com/MrDGuy/pxt-skillmap-dino-python/blob/master/img/dino4.gif
 * tags: easy, game, animation
 * next: beginner-cert-3
