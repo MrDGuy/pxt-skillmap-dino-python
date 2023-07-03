@@ -7,7 +7,13 @@
     },
     "files": [
         "README.md",
-        "dino.md"
+        "dino.md",
+        "tutorials/dino1.md",
+        "tutorials/dino2.md",
+        "tutorials/dino3.md",
+        "tutorials/dino4.md",
+        "tutorials/dino5.md",
+        "tutorials/scroller.ts"
         
     ],
     "testFiles": [
