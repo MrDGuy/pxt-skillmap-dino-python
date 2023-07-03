@@ -8,7 +8,7 @@ Ready to save the day?
 
 Let's create a game where you help Mama Dino rescue her hoard of babies!
 
-![Code a Collector Game](/static/skillmap/collector/collectort1.gif "Grab the baby before it runs away!" )
+![Code a Collector Game](/img/collector/collectort1.gif "Grab the baby before it runs away!" )
 
 
 
@@ -32,7 +32,7 @@ container in the workspace.
 
 ---
 
-![The background gallery](/static/skillmap/dino/dino-scene.gif "Toggle between editor and gallery" )
+![The background gallery](/img/dino-scene.gif "Toggle between editor and gallery" )
 hint~
 
 ---
@@ -60,14 +60,14 @@ scene.setBackgroundImage(img`.`)
 to open the **image editor**. <br/><br/>
 You can draw your own background or choose the freeway from the **Gallery**.
 <!-- ![This is where the gallery is located](/static/skillmap/assets/gallery.png "You can switch over to the gallery or make your own image." ) -->
-![Choose the freeway from My Assets gallery](/static/skillmap/dino/freeway.png " " )
+![Choose the freeway from My Assets gallery](/img/freeway.png " " )
 
 
 ~hint Click here to see how 🕵🏽
 
 ---
 
-![The background gallery](/static/skillmap/dino/choose-bg.gif "Toggle between editor and gallery" )
+![The background gallery](/img/choose-bg.gif "Toggle between editor and gallery" )
 hint~
 
 
@@ -89,7 +89,7 @@ scene.setBackgroundImage(sprites.background.cityscape2)
 Do you see the background you chose?
 
 
-![Look for the game window in the lower right](/static/skillmap/assets/game-window.png "Click the mini game window to pop open the bigger game window.")
+![Look for the game window in the lower right](/img/assets/game-window.png "Click the mini game window to pop open the bigger game window.")
 
 
 
@@ -125,7 +125,7 @@ and snap it in at **the bottom** of the ``||loops(noclick): on start||`` block a
 ~hint Show me how! 🕵🏽
 
 
-![Add the sprite block.](/static/skillmap/dino/dino1-5.gif "Add a sprite to your game.")
+![Add the sprite block.](/img/dino1-5.gif "Add a sprite to your game.")
 
 hint~
 
@@ -150,19 +150,19 @@ to open the
 image editor and click the **My Assets** tab.
 
 
-![My Assets tab](/static/skillmap/assets/my-assets-three.png )
+![My Assets tab](/img/assets/my-assets-three.png )
 
 
 - :mouse pointer: Choose **Mama** and click **Done**.
 
-![Choose mama dino from My Assets gallery](/static/skillmap/dino/mama-dino.png " " )
+![Choose mama dino from My Assets gallery](/img/mama-dino.png " " )
 
 
 ~hint Click here to see how 🕵🏽
 
 ---
 
-![Look in My Assets for Mama Dino](/static/skillmap/dino/dino1-6.gif )
+![Look in My Assets for Mama Dino](/img/dino1-6.gif )
 
 hint~
 
@@ -204,7 +204,7 @@ block already in the workspace.
 
 ---
 
-![Look under Controller for the block](/static/skillmap/dino/dino1-7.gif "Drag out the controller block to use later.")
+![Look under Controller for the block](/img/dino1-7.gif "Drag out the controller block to use later.")
 
 hint~
 
@@ -250,7 +250,7 @@ of the ``||loops(noclick):on start||`` container.
 
 ---
 
-![Add a scroller block](/static/skillmap/dino/dino1-8.gif )
+![Add a scroller block](/img/dino1-8.gif )
 
 hint~
 
@@ -293,7 +293,7 @@ bundle and drag it into an empty spot on the workspace.
 
 
 - :paint brush:  Click the **empty image square** and switch to **My Assets** to choose the **Baby** sprite image.
-![Choose the baby dino from My Assets gallery](/static/skillmap/dino/baby.png " " )
+![Choose the baby dino from My Assets gallery](/img/baby.png " " )
 
 This will create a new baby dino every second (1000ms) at a random starting height (y).
 
@@ -302,7 +302,7 @@ This will create a new baby dino every second (1000ms) at a random starting heig
 
 ---
 
-![Add baby dinos](/static/skillmap/dino/dino1-10.gif )
+![Add baby dinos](/img/dino1-10.gif )
 
 hint~
 
@@ -357,7 +357,7 @@ You've built the start of a great game.
 
 Click "Done" to get back out to the skillmap, then look in the lower-right corner for the share button.
 
-![Share your card](/static/skillmap/dino/share.gif )
+![Share your card](/img/share.gif )
 
 hint~
 
