@@ -9,7 +9,7 @@ Collecting things is great, but let's also add an element of **DANGER!**
 
 This tutorial will show you how to add cars to the road.
 
-![Avoid the cars](/static/skillmap/collector/collectort3.gif "Stay safe!" )
+![Avoid the cars](/img/collector/collectort3.gif "Stay safe!" )
 
 
 ## {Step 2}
@@ -167,7 +167,7 @@ This game has it all...drama, enemies, winning, and losing!
 
 Click **Done** to get back out to the skillmap, then look in the lower-right corner for the share button.
 
-![Share your card](/static/skillmap/dino/share.gif )
+![Share your card](/img/share.gif )
 
 hint~
 
