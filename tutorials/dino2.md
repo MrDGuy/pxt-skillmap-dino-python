@@ -9,7 +9,7 @@ The start of a your game is in your workspace.
 
 Take it even further by adding points when you collect baby dinos!
 
-![Saving babies](/img/collector/collectort2.gif "Let's make it even cooler!" )
+![Saving babies](https://github.com/MrDGuy/pxt-skillmap-dino-python/blob/master/img/collector/collectort2.gif "Let's make it even cooler!" )
 
 
 
@@ -48,7 +48,7 @@ projectile (Baby Dino), then it destroys the projectile to make it look like it'
 
 ---
 
-![Add the on overlap bundle](/img/dino2-3.gif )
+![Add the on overlap bundle](https://github.com/MrDGuy/pxt-skillmap-dino-python/blob/master/img/dino2-3.gif )
 
 hint~
 
@@ -83,7 +83,7 @@ container that's already in the workspace.
 
 ---
 
-![Add the score block](/img/dino2-4.gif )
+![Add the score block](https://github.com/MrDGuy/pxt-skillmap-dino-python/blob/master/img/dino2-4.gif )
 
 hint~
 
@@ -134,7 +134,7 @@ and snap it into the end of the<br/>
 
 ---
 
-![Add the start countdown](/img/dino2-6.gif )
+![Add the start countdown](https://github.com/MrDGuy/pxt-skillmap-dino-python/blob/master/img/dino2-6.gif )
 
 hint~
 
@@ -172,7 +172,7 @@ and drop it into a blank area of the workspace.
 
 ---
 
-![Add the counntdown end](/img/dino2-7.gif )
+![Add the counntdown end](https://github.com/MrDGuy/pxt-skillmap-dino-python/blob/master/img/dino2-7.gif )
 
 hint~
 
@@ -208,7 +208,7 @@ How many babies can you collect in **15 seconds**?
 
 Click **Done** to get back out to the skillmap, then look in the lower-right corner for the share button.
 
-![Share your card](/img/share.gif )
+![Share your card](https://github.com/MrDGuy/pxt-skillmap-dino-python/blob/master/img/share.gif )
 
 hint~
 
