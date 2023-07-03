@@ -8,7 +8,7 @@ A fantastic game can get even better with extra details.
 
 This tutorial will show you how to animate your characters.
 
-![Mama dino looks like she's walking](/static/skillmap/collector/collectort4.gif "One foot in front of the other." )
+![Mama dino looks like she's walking](/img/collector/collectort4.gif "One foot in front of the other." )
 
 
 ## {Step 2}
@@ -196,7 +196,7 @@ true
 
 Click **Done** to get back out to the skillmap, then look in the lower-right corner for the share button.
 
-![Share your card](/static/skillmap/dino/share.gif )
+![Share your card](/img/share.gif )
 
 hint~
 
