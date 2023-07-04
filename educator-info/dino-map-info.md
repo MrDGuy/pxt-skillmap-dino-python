@@ -53,7 +53,7 @@ Students will work with sprite controller blocks, variables, and conditional sta
 
 | Activity | Dino Hoard (10 min) |
 |---|---|
-| ![Dino Hoard thumbnail](/img/map-info/dino-hoard.png) | Set an animated background for your hero sprite to travel as they search for baby dinos. |
+| ![Dino Hoard thumbnail](https://github.com/MrDGuy/pxt-skillmap-dino-python/blob/master/img/map-info/dino-hoard.png) | Set an animated background for your hero sprite to travel as they search for baby dinos. |
 | Blocks used | ``[let mySprite = sprites.create(img`.`, SpriteKind.Player)]``<br/>``[controller.moveSprite(sprites.create(img`.`), 0, 100)]``<br/>``[let random = randint(0, 10)]``<br/>``[let projectile = sprites.createProjectileFromSide(img`.`, 0, 100)]``<br/>``[sprites.onOverlap(SpriteKind.Player, SpriteKind.Projectile, function (sprite, otherSprite) {})]``<br/>``[forever(function () {})]``<br/>``[sprites.create(img`.`).destroy()]`` |
 | Solution option | [Dino Hoard Project](https://arcade.makecode.com/00050-04644-99185-20758) |
 
@@ -62,7 +62,7 @@ Students will work with sprite controller blocks, variables, and conditional sta
 
 | Activity | Save the Baby Dinos! (12 min) |
 |---|---|
-| ![Save the Baby Dinos thumbnail](/img/map-info/save-baby-dinos.png) | Build on the previous activity to add points to your game as you collect dinos. |
+| ![Save the Baby Dinos thumbnail](https://github.com/MrDGuy/pxt-skillmap-dino-python/blob/master/img/map-info/save-baby-dinos.png) | Build on the previous activity to add points to your game as you collect dinos. |
 | Blocks used | ``[scene.setBackgroundColor(0)]``<br/>``[scene.setBackgroundImage(img`.`)]``<br/>``[effects.blizzard.startScreenEffect()]``<br/>``[sprites.create(img`.`).setStayInScreen(true)]``|
 | Solution option | [Save the Baby Dinos Project](https://arcade.makecode.com/21438-61170-25811-66074) |
 
@@ -70,7 +70,7 @@ Students will work with sprite controller blocks, variables, and conditional sta
 
 | Activity | Traffic Dodger (14 min) |
 |---|---|
-| ![Traffic Dodger thumbnail](/img/map-info/traffic-dodger.png) | Take your game further with cars that subtract a life if you run into them. |
+| ![Traffic Dodger thumbnail](https://github.com/MrDGuy/pxt-skillmap-dino-python/blob/master/img/map-info/traffic-dodger.png) | Take your game further with cars that subtract a life if you run into them. |
 | Blocks used | ``[sprites.create(img`.`).setKind(SpriteKind.Enemy)]``<br/>``[sprites.create(img`.`).y = 0]``|
 | Solution option | [Traffic Dodger Project](https://arcade.makecode.com/76596-99011-88241-42675) |
 
@@ -78,7 +78,7 @@ Students will work with sprite controller blocks, variables, and conditional sta
 
 | Activity | Animate It! (20 min) |
 |---|---|
-| ![Animate It! thumbnail](/img/map-info/animate-it.png) | Polish your game using animation to make your characters come to life! |
+| ![Animate It! thumbnail](https://github.com/MrDGuy/pxt-skillmap-dino-python/blob/master/img/map-info/animate-it.png) | Polish your game using animation to make your characters come to life! |
 | Blocks used | ``[info.changeLifeBy(1)]``|
 | Solution option | [Animate It Project](https://arcade.makecode.com/20377-15271-69070-26521) |
 
